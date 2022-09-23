@@ -1,7 +1,6 @@
 ### Selam, Ben [Yiğit Zeybek][Website] 👋
 
 [![Website](https://img.shields.io/website?down_color=Red&down_message=Kapal%C4%B1&label=mrygtzz.cf&style=for-the-badge&up_color=Green&up_message=A%C3%A7%C4%B1k&url=http%3A%2F%2Fwww.mrygtzz.cf)](https://www.mrygtzz.cf/)
-[![Instagram](https://img.shields.io/instagram/follow/mrygtzz?color=GREEN&label=İnstagram&style=for-the-badge)](https://instagram.com/mr.ygtzz)
 [![Twitter](https://img.shields.io/twitter/follow/mrygtzz?color=GREEN&label=Twitter&style=for-the-badge)](https://twitter.com/mrygtzz)
 [![Discord](https://img.shields.io/discord/876979337432301609?label=Sunucumuz&style=for-the-badge)](https://discord.gg/tbzna9V6Xv)
 
@@ -13,7 +12,6 @@
 
 ### Beni bulabileceğiniz yerler:
 
-[<img align="left" alt="DSA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="DSA | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="DSA | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 [<img align="left" alt="mrygtzz.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
