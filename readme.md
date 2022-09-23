@@ -1,7 +1,7 @@
 ### Selam, Ben [Yiğit Zeybek][Website] 👋
 
 [![Website](https://img.shields.io/website?down_color=Red&down_message=Kapal%C4%B1&label=mrygtzz.cf&style=for-the-badge&up_color=Green&up_message=A%C3%A7%C4%B1k&url=http%3A%2F%2Fwww.mrygtzz.cf)](https://www.mrygtzz.cf/)
-[![Instagram](https://img.shields.io/instagram/follow/mrygtzz?color=GREEN&label=Instagram&style=for-the-badge)](https://instagram.com/mr.ygtzz)
+[![Instagram](https://img.shields.io/instagram/follow/mrygtzz?color=GREEN&label=İnstagram&style=for-the-badge)](https://instagram.com/mr.ygtzz)
 [![Twitter](https://img.shields.io/twitter/follow/ygtzzoffical?color=GREEN&label=Twitter&style=for-the-badge)](https://twitter.com/ygtzzoffical)
 [![Discord](https://img.shields.io/discord/876979337432301609?label=Sunucumuz&style=for-the-badge)](https://discord.gg/tbzna9V6Xv)
 
