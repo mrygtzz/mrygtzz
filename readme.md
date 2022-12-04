@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_color=Red&down_message=Kapal%C4%B1&label=yigitzeybek.com&style=for-the-badge&up_color=Green&up_message=A%C3%A7%C4%B1k&url=http%3A%2F%2Fwww.yigitzeybek.com)](https://yigitzeybek.com/)
 [![Twitter](https://img.shields.io/twitter/follow/mrygtzz?color=GREEN&label=Twitter&style=for-the-badge)](https://twitter.com/mrygtzz)
-[![Discord](https://img.shields.io/discord/876979337432301609?label=Sunucumuz&style=for-the-badge)](https://discord.gg/tbzna9V6Xv)
+[![Instagram](https://img.shields.io/instagram/follow/mr.ygtzz?color=GREEN&label=Instagram&style=for-the-badge)](https://instagram.com/mr.ygtzz)
 
 ## Ben bir lise öğrenicisiyim ve şu anda!!
 
