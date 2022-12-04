@@ -28,5 +28,4 @@
 
 [Website]: https://mrygtzz.cf
 [Instagram]: https://www.instagram.com/mr.ygtzz
-[Twitter]: https://www.twitter.com/ygtzzoffical
-[Discord]: https://discord.gg/tbzna9V6Xv
+[Twitter]: https://www.twitter.com/mrygtzz
