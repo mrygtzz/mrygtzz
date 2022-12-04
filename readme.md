@@ -26,6 +26,6 @@
 
 ---
 
-[Website]: https://mrygtzz.cf
+[Website]: https://yigitzeybek.com
 [Instagram]: https://www.instagram.com/mr.ygtzz
 [Twitter]: https://www.twitter.com/mrygtzz
