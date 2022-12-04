@@ -7,7 +7,7 @@
 
 - 🌱 Şu anda kendimi geliştiriyorum.
 - 👯 Başka insanlarla çalışmak istiyorum!
-- 🥅 2021 İsteklerim: kodlama dillerinde kendimi geliştirmek istiyorum!
+- 🥅 2022 İsteklerim: kodlama dillerinde kendimi geliştirmek istiyorum!
 
 ### Beni bulabileceğiniz yerler:
 
